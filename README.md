@@ -1,6 +1,6 @@
 # indieopensource.com Tiny Contributor License Agreement
 
-tiny contributor license agreement for public-private licensing projects
+tiny contributor license agreement for [public-private licensing](https://indieopensource.com/public-private/) projects
 
 Download the most recent release from [GitHub](https://github.com/indieopensource/tiny-cla/releases), or read the [current development version of the terms in Markdown format](https://github.com/indieopensource/tiny-cla/blob/master/cla.md).
 
