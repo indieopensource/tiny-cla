@@ -1,6 +1,4 @@
-# indieopensource.com Tiny Contributor License Agreement
-
-Development Version
+# indieopensource.com Tiny Contributor License Agreement 1.0.0
 
 I, {{{contributor name}}}, give {{{project steward name}}} permission to license my contributions on any terms they like.  I am giving them this license in order to make it possible for them to accept my contributions into their project.
 
